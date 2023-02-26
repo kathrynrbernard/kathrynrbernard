@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 *Pronouns (she/her/hers)*
+
 🎓 I'm currently a graduate student in environmental conservation, GIS, and remote sensing at the [University of Wisconsin-Madison](https://nelson.wisc.edu/graduate/professional-programs/environmental-observation-and-informatics/). I'm passionate about applying geospatial technologies to the field of outdoor recreation.
 
 📊 I'm interested in data visualization and web mapping as tools to communicate environmental issues.
